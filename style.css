@@ -1,0 +1,40 @@
+body,html{
+ height: 100%;
+}
+.bg{
+  background-image:url(images/bg1\ \(1\).jpg);
+  height:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.subject{
+  color:rgb(0, 181, 253);
+  font-weight:bold;
+}
+.result-ans{
+  color:rgb(202, 0, 252);
+  font-weight: 800;
+}
+.heading{
+  color:green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+}
+.header{
+  color:green;
+}
+.first-header{
+  color:red;
+}
+.footer-text1{
+  color:rgb(237, 0, 245);
+  font-size:12px;
+}
+.footer-text{
+  color:rgba(106, 156, 156, 0.185);
+  font-size: 9px;
+}
+footer{
+margin: auto;
+}
